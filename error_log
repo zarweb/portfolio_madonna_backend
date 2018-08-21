@@ -1,2 +1,0 @@
-[31-Jul-2018 20:40:23 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/zargrigg/public_html/portfolio_wp/wp-content/themes/stylist/index.php on line 15
-[31-Jul-2018 20:40:24 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/zargrigg/public_html/portfolio_wp/wp-content/themes/stylist/index.php on line 15
